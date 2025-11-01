@@ -6,6 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     color: white;
+    font-family: 'Outfit', sans-serif;
 }
 .card {
     background-color: #3f3f3f;
@@ -16,7 +17,6 @@ body {
     justify-content: flex-start;
     align-items: center;
     border-radius: 10px;
-    gap: 20x;
 }
 .lime-text {
     color: lime;
