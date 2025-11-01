@@ -5,9 +5,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    color: white;
 }
 .card {
-    background-color: lightslategray;
+    background-color: #3f3f3f;
     width: 450px;
     height: 700px;
     display: flex;
@@ -16,6 +17,9 @@ body {
     align-items: center;
     border-radius: 10px;
 }
+.lime-text {
+    color: lime;
+}
 .social-links {
     display: flex;
     flex-direction: column;
@@ -23,7 +27,13 @@ body {
     align-items: center;
     gap: 12px;
 }
-
+.social-links a {
+    background-color: #595959;
+    border-radius: 10px;
+    min-width: 200px;
+    padding: 10px;
+    text-align: center;
+}
 img {
     border-radius: 50%;
     width: 75px;
