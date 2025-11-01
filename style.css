@@ -32,9 +32,14 @@ body {
 .social-links a {
     background-color: #595959;
     border-radius: 10px;
-    min-width: 200px;
+    min-width: 300px;
     padding: 10px;
     text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.social-links a:hover {
+    background-color: black;
 }
 img {
     border-radius: 50%;
