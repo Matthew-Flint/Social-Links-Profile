@@ -9,16 +9,18 @@ body {
 }
 .card {
     background-color: #3f3f3f;
-    width: 450px;
-    height: 700px;
+    width: 400px;
+    height: 600px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
     border-radius: 10px;
+    gap: 20x;
 }
 .lime-text {
     color: lime;
+    font-size: 15px;
 }
 .social-links {
     display: flex;
@@ -37,5 +39,5 @@ body {
 img {
     border-radius: 50%;
     width: 75px;
-    padding: 30px;
+    margin-top: 15px;
 }
