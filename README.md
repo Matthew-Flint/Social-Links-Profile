@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Matthew-Flint/Social-Links-Profile)
-- Live Site URL: [Add live site URL here](https://matthew-flint.github.io/Social-Links-Profile)
+- Solution URL: [https://github.com/Matthew-Flint/Social-Links-Profile](https://github.com/Matthew-Flint/Social-Links-Profile)
+- Live Site URL: [https://matthew-flint.github.io/Social-Links-Profile](https://matthew-flint.github.io/Social-Links-Profile)
 
 ## My process
 
