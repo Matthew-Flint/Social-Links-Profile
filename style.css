@@ -10,7 +10,7 @@ body {
     align-items: center;
     height: 100vh;
     color: white;
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Inter', sans-serif;
     gap: 15px;
 }
 .card {
