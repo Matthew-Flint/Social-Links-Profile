@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 body {
     background-color: black;
     display: flex;
@@ -7,20 +11,25 @@ body {
     height: 100vh;
     color: white;
     font-family: 'Outfit', sans-serif;
+    gap: 15px;
 }
 .card {
     background-color: #3f3f3f;
     width: 400px;
-    height: 600px;
+    height: 550px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
     border-radius: 10px;
+    gap : 25px;
 }
 .lime-text {
     color: lime;
     font-size: 15px;
+}
+p {
+    font-size: 10px;
 }
 .social-links {
     display: flex;
