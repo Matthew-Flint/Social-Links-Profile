@@ -26,10 +26,10 @@ body {
 }
 .lime-text {
     color: hsl(75, 94%, 57%);
-    font-size: 15px;
+    font-size: 14px;
 }
 p {
-    font-size: 10px;
+    font-size: 14px;
 }
 .social-links {
     display: flex;
