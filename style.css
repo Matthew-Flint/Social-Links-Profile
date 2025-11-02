@@ -60,5 +60,8 @@ img {
     text-align: center; 
 }
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+    color: lime; 
+}
+.attribution a:hover {
+    color: #595959;
 }
