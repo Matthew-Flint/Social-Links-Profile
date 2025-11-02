@@ -65,3 +65,17 @@ img {
 .attribution a:hover {
     color: #595959;
 }
+
+@media screen and (max-width: 400px) {
+    .card {
+        width: 350px;
+    }
+}
+@media screen and (max-width: 350px) {
+    .card {
+        width: 300px;
+    }
+    .social-links a {
+        min-width: 250px;
+    }
+}
